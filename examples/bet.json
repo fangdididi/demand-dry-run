@@ -1,0 +1,20 @@
+{
+  "who": "Freelance bookkeepers who close 10+ small-business clients each month",
+  "pain": "Chasing clients for missing receipts eats my first three days of every month",
+  "offer": "A receipt-chaser that texts each client a list of missing receipts and collects photos into the right ledger line",
+  "price": 29,
+  "currency": "USD",
+  "billing": "monthly",
+  "status": "not_built",
+  "status_line": "Not built yet. We open to the first 50 bookkeepers in March.",
+  "rung": "deposit",
+  "pass_line": 0.04,
+  "kill_line": 0.015,
+  "min_visitors": 710,
+  "budget_cap": 900,
+  "deadline": "2026-11-20",
+  "channels": ["linkedin_ads", "bookkeeper_forum"],
+  "warm_channels": ["friends", "own_followers"],
+  "variants": ["A", "B"],
+  "max_cost_per_commit": 25
+}
